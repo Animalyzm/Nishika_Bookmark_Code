@@ -1,0 +1,8 @@
+Windows10
+CPU ntel(R) Core(TM) i7-7740X CPU @ 4.30GHz(コア数4)
+GPU NVIDIA GeForce GTX 1080 Ti
+memory 64GB
+HDD 2.7TB
+
+Python 3.8.5
+jupyter lab 3.0.14
